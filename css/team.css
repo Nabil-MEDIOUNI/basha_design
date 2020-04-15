@@ -1,0 +1,23 @@
+.custom-heading-delim {
+  border-top: 3px solid #303030;
+  display: block;
+  margin-top: 10px;
+  width: 30px;
+}
+
+@media only screen and (max-width: 500px) {
+  .head2 {
+    font-size: 30px !important;
+  }
+  .team {
+    display: none;
+  }
+  .baha {
+    display: block;
+  }
+}
+
+.baha {
+  display: block;
+}
+/*# sourceMappingURL=team.css.map */
